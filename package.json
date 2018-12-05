@@ -1,0 +1,14 @@
+{
+  "name": "sleeping-cat-server",
+  "version": "1.0.0",
+  "description": "This is a server for sleeping cat product",
+  "main": "index.js",
+  "author": "lavender",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
